@@ -22,10 +22,11 @@ A mini-project developed in C language for smart traffic management and congesti
 ## 📁 Project Structure
 
 SmartTraffic/
-- src/
-- screenshots/
-- Project_Report.docx
-- README.md
+├── src/
+├── screenshots/
+├── Project_Report.docx
+├── README.md
+└── viva_questions.md
 
 ---
 
